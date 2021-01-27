@@ -1,0 +1,76 @@
+{
+    "products":[
+         {
+             "title": "CyberPunk 2077",
+             "description": "RPG",
+             "price": "$59.99",
+             "image": "https://media.gamestop.com/i/gamestop/11094722/Cyberpunk-2077?$newgrid$"
+         },
+         {
+             "title": "NBA 2K21",
+             "description": "Sports",
+             "price": "59.99",
+             "image": "https://media.gamestop.com/i/gamestop/11103262/NBA-2K21?$newgrid$"
+         },  
+         {
+             "title": "Sekiro Shadows Die Twice",
+             "description": "RPG",
+             "price": "59.99",
+             "image": "https://media.gamestop.com/i/gamestop/10164383/Sekiro-Shadows-Die-Twice?$newgrid$"
+         },  
+         {
+             "title": "Ghost of Tsushima",
+             "description": "RPG",
+             "price": "59.99",
+             "image": "https://media.gamestop.com/i/gamestop/11100913/Ghost-of-Tsushima?$newgrid$"
+         },  
+         {
+             "title": "Madden 21",
+             "description": "Sports",
+             "price": "59.99",
+             "image": "https://media.gamestop.com/i/gamestop/11100040/Madden-NFL-21?$newgrid$"
+         },  
+         {
+             "title": "Call of Duty: Black Ops Cold War",
+             "description": "Shooter",
+             "price": "59.99",
+             "image": "https://media.gamestop.com/i/gamestop/11103152/Call-of-Duty-Black-Ops-Cold-War?$newgrid$"
+         },  
+         {
+             "title": "Assassins Creed Valhalla",
+             "description": "RPG",
+             "price": "59.99",
+             "image": "https://media.gamestop.com/i/gamestop/11102097/Assassins-Creed-Valhalla-Ultimate-Steelbook-Edition-Only-at-GameStop?$newgrid$"
+         },  
+         {
+             "title": "Doom Eternal",
+             "description": "Shooter",
+             "price": "59.99",
+             "image": "https://media.gamestop.com/i/gamestop/10163466/DOOM-Eternal?$newgrid$"
+         },  
+         {
+             "title": "Marvels Avengers",
+             "description": "RPG",
+             "price": "59.99",
+             "image": "https://media.gamestop.com/i/gamestop/11094732/Marvels-Avengers?$newgrid$"
+         },  
+         {
+             "title": "Crash Bandicoot 4 It's About Time",
+             "description": "Platformer",
+             "price": "59.99",
+             "image": "https://media.gamestop.com/i/gamestop/11103267/Crash-Bandicoot-4-Its-About-Time?$newgrid$"
+         },  
+         {
+             "title": "Star Wars Squadrons",
+             "description": "Simulator",
+             "price": "$39.99",
+             "image": "https://media.gamestop.com/i/gamestop/11103268/Star-Wars-Squadrons?$newgrid$"
+         },  
+         {
+             "title": "FIFA 21",
+             "description": "Sports",
+             "price": "$59.99",
+             "image": "https://media.gamestop.com/i/gamestop/11102805/FIFA-21?$newgrid$"
+         }
+     ]
+ }
