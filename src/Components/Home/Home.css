@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+
+/* Slider */
+.slider{
+	width:1000px;
+	height:500px;
+	margin:0 auto;
+    position:relative;
+}
+.slider ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.slider ul li{
+	width:1000px;
+	height:400px;
+	position:absolute;
+	top:0;
+	left:0;
+	animation-iteration-count:infinite;
+	animation-duration:24s;
+}
+
+
+.slider ul li:nth-child(1){
+	animation-name:slider;
+	animation-delay:-3s;
+}
+.slider ul li:nth-child(2){
+	animation-name:slider;
+	animation-delay:5s;
+	opacity:0;
+}
+.slider ul li:nth-child(3){
+	animation-name:slider;
+	animation-delay:13s;
+	opacity:0;
+}
+
+
+@keyframes slider{
+	0%{
+		opacity:0;
+	}
+	20.83%{
+		opacity:1;
+	}
+	33.33%{
+		opacity:1;
+	}
+	45.83%{
+		opacity:0;
+	}
+	100%{
+		opacity:0;
+	}	
+}
+
+
+/* Bogo */
+#bogo{
+    margin-top: 20px;
+}
+#bogo .games{
+    float: left;
+    text-align: center;
+    width: 30%;
+    padding: 10px;
+}
+#bogo .games img{
+    width: 90px;
+}
